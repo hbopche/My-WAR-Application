@@ -1,0 +1,4 @@
+---
+- host: jenkins
+  became : true
+  
